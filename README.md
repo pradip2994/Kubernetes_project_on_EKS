@@ -1,6 +1,7 @@
 # Kubernetes Project on EKS
 
-![K8-ALB](https://github.com/pradip2994/Kubernetes_project_on_EKS/assets/124191442/d9f04634-c470-4c76-8c7e-af47072550a3)
+![new](https://github.com/pradip2994/Kubernetes_project_on_EKS/assets/124191442/32671b58-d7f9-4d32-8f9d-cd787c46427a)
+
 
 ### Prerequisites
 
